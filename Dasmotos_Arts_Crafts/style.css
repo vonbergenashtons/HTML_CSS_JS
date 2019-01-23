@@ -1,0 +1,32 @@
+div h2{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+.title {
+	font-family: Helvetica;
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url("pattern.jpeg");
+}
+
+.brushes_section {
+	background-color: mediumspringgreen;
+}
+
+.frames_section {
+	background-color: lightcoral;
+}
+
+.paint_section {
+	background-color: skyblue;
+}
+.blue_highlight {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: blue;
+}
